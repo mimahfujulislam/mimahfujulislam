@@ -1,7 +1,7 @@
 # Hi there 👋, I’m Mahfujul Islam
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C4CC&center=true&vCenter=true&width=500&lines=Aspiring+Developer;AI+%26+ML+Explorer;CSE+Student+at+AIUB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C4CC&center=true&vCenter=true&width=500&lines=Aspiring+Developer;AI+%26+ML+Explorer;" />
 </p>
 
 💻 Aspiring Developer | 🤖 Exploring AI & Machine Learning  
@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍🎓 Education
-- 🎓 **BSc in Computer Science & Engineering (CSE)**  
+-  **BSc in Computer Science & Engineering (CSE)**  
   American International University-Bangladesh (AIUB)  
   
 
@@ -24,41 +24,29 @@
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### 🌐 Web Development
+###  Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database
+###  Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" />
 </p>
 
-### 🎨 Design Tools
+###  Design Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mimahfujulislam&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimahfujulislam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,8 +55,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimahfujulislam&theme=tokyo-night" />
 </p>
-
----
 
 
 ---
