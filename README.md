@@ -9,14 +9,14 @@
 
 ---
 
-## 🧑‍🎓 Education
+## Education
 -  **BSc in Computer Science & Engineering (CSE)**  
   American International University-Bangladesh (AIUB)  
   
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 -  Currently exploring: **Machine Learning & Artificial Intelligence**
 -  Goal: **Looking for Internship (Spring 2027)**
 
