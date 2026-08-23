@@ -26,7 +26,7 @@
 
 ###  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" />
 </p>
 
 ###  Web Development
@@ -41,7 +41,7 @@
 
 ###  Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,bash" />
 </p>
 
 ###  Design Tools
