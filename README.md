@@ -51,14 +51,6 @@
 
 ---
 
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimahfujulislam&theme=tokyo-night" />
-</p>
-
-
----
-
 ## 🔗 Connect with Me
 -  Email: **mi.mahfujulislam@gmail.com**
 -  LinkedIn: https://linkedin.com/in/mimahfujulislam
