@@ -55,7 +55,3 @@
 -  Email: **mi.mahfujulislam@gmail.com**
 -  LinkedIn: https://linkedin.com/in/mimahfujulislam
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mimahfujulislam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
